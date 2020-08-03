@@ -1,4 +1,4 @@
-# sass-portfolio-website
+# Portfolio Website using HTML5, CSS3 & SCSS.
 ### Basic Portfolio Website Project from Udemy Modern HTML &amp; CSS From The Beginning by Brad Traversy.
 
 From this project, I have a basic understanding of HTML5, CSS3 & SCSS. 
